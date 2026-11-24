@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Softfeed",
+    "slug": "softfeed",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "android": {
+      "edgeToEdgeEnabled": true
+    },
+    "plugins": [
+      "expo-status-bar"
+    ]
+  }
+}
